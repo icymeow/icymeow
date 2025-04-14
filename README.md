@@ -1,4 +1,4 @@
-# �� Hi, I'm Hsin He
+# Hi, I'm Qian Xin.
 
 <div align="center">
   
@@ -8,10 +8,10 @@
 </div>
 
 ## 🎓 About Me
-I'm a passionate **Year 2 Computer Engineering** student at **National Taiwan University (NTU)**. My journey in technology is driven by my deep interest in **coding** and **Artificial Intelligence**. I love exploring new technologies and building innovative solutions.
+I'm a passionate **Year 2 Computer Engineering** student at **Nanyang Technological University (NTU)**. My journey in technology is driven by my deep interest in **coding** and **Artificial Intelligence**. I love exploring new technologies and building innovative solutions.
 
 ## 🔥 Skills & Interests
-- 💻 Programming Languages: Python, C++, Java
+- 💻 Programming Languages: Python, C, C++, Java
 - 🤖 AI/ML: Deep Learning, Computer Vision, Natural Language Processing
 - 🛠️ Tools & Technologies: Git, Docker, TensorFlow, PyTorch
 - 🌐 Web Development: React, Node.js

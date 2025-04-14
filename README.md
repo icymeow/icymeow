@@ -1,10 +1,5 @@
 # <h1>🚀 HELLO WORLD! I'm Qian Xin 🎉</h1>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xin-qian-65352632/)
-  [![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icymeow)
-  
 </div>
 
 ## <h2>🎓✨ WHO AM I?</h2>
@@ -13,17 +8,13 @@
 ## <h2>💼🔍 INTERNSHIP INTERESTS</h2>
 <p style="font-size: 18px">I'm actively seeking internship opportunities in the following areas:</p>
 
-🤖 <strong>AI/ML Engineering</strong>
-- Deep Learning, Computer Vision, NLP
+🤖 <strong>AI/ML Engineering</strong> - Deep Learning, Computer Vision, NLP
 
-🔌 <strong>Embedded Systems</strong>
-- STM32 Development, Hardware-Software Integration
+🔌 <strong>Embedded Systems</strong> - STM32 Development, Hardware-Software Integration
 
-🎮 <strong>Digital Design</strong>
-- Verilog HDL, FPGA Development
+🎮 <strong>Digital Design</strong> - Verilog HDL, FPGA Development
 
-🌐 <strong>Full-Stack Development</strong>
-- Web Applications, API Development
+🌐 <strong>Full-Stack Development</strong> - Web Applications, API Development
 
 ## <h2>💪🔥 MY SKILLS & INTERESTS</h2>
 - 💻 **Programming Languages**: Python 🐍, C, C++ 🚀, Java ☕, Verilog 🔌

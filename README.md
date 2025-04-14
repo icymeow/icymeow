@@ -8,7 +8,7 @@
 </div>
 
 ## 🎓✨ WHO AM I?
-I'm a **SUPER PASSIONATE** Year 2 Computer Engineering student at **National Taiwan University (NTU)**! 🎯 My journey in technology is fueled by my **LOVE** for coding and **FASCINATION** with Artificial Intelligence! 💻🤖 I'm always excited to explore new technologies and build **AWESOME** solutions! 🚀
+I'm a **SUPER PASSIONATE** Year 2 Computer Engineering student at **Nanyang Technological University (NTU)**! 🎯 My journey in technology is fueled by my **LOVE** for coding and **FASCINATION** with Artificial Intelligence! 💻🤖 I'm always excited to explore new technologies and build **AWESOME** solutions! 🚀
 
 ## 💪🔥 MY SKILLS & INTERESTS
 - 💻 **Programming Languages**: Python 🐍, C++ 🚀, Java ☕

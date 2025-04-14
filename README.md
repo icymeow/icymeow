@@ -12,10 +12,18 @@
 
 ## <h2>💼🔍 INTERNSHIP INTERESTS</h2>
 <p style="font-size: 18px">I'm actively seeking internship opportunities in the following areas:</p>
-- 🤖 <strong>AI/ML Engineering</strong>: Deep Learning, Computer Vision, NLP
-- 🔌 <strong>Embedded Systems</strong>: STM32 Development, Hardware-Software Integration
-- 🎮 <strong>Digital Design</strong>: Verilog HDL, FPGA Development
-- 🌐 <strong>Full-Stack Development</strong>: Web Applications, API Development
+
+🤖 <strong>AI/ML Engineering</strong>
+- Deep Learning, Computer Vision, NLP
+
+🔌 <strong>Embedded Systems</strong>
+- STM32 Development, Hardware-Software Integration
+
+🎮 <strong>Digital Design</strong>
+- Verilog HDL, FPGA Development
+
+🌐 <strong>Full-Stack Development</strong>
+- Web Applications, API Development
 
 ## <h2>💪🔥 MY SKILLS & INTERESTS</h2>
 - 💻 **Programming Languages**: Python 🐍, C, C++ 🚀, Java ☕, Verilog 🔌
@@ -63,7 +71,7 @@
 <p style="font-size: 18px">I'm <strong>ALWAYS</strong> excited to collaborate on interesting projects or discuss new ideas! Let's create something <strong>AMAZING</strong> together! 🎉</p>
 
 - 📧 Email: [qian.xin.olivia@gmail.com](mailto:qian.xin.olivia@gmail.com)
-- 💼 LinkedIn: [Qian Xin](https://www.linkedin.com/in/xin-qian-65352632/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/xin-qian-65352632/](https://www.linkedin.com/in/xin-qian-65352632/)
 
 ---
 

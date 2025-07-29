@@ -3,7 +3,7 @@
 </div>
 
 ## <h2>🎓✨ WHO AM I?</h2>
-<p style="font-size: 18px">I'm a <strong>SUPER PASSIONATE</strong> Year 2 Computer Engineering student at <strong>Nanyang Technological University (NTU)</strong>! 🎯 My journey in technology is fueled by my <strong>LOVE</strong> for coding and <strong>FASCINATION</strong> with Artificial Intelligence! 💻🤖 I'm always excited to explore new technologies and build <strong>AWESOME</strong> solutions! 🚀</p>
+<p style="font-size: 18px">I'm a <strong>SUPER PASSIONATE</strong> Year 3 Computer Engineering student at <strong>Nanyang Technological University (NTU)</strong>! 🎯 My journey in technology is fueled by my <strong>LOVE</strong> for coding and <strong>FASCINATION</strong> with Artificial Intelligence! 💻🤖 I'm always excited to explore new technologies and build <strong>AWESOME</strong> solutions! 🚀</p>
 
 ## <h2>💼🔍 INTERNSHIP INTERESTS</h2>
 <p style="font-size: 18px">I'm actively seeking internship opportunities in the following areas:</p>

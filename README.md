@@ -22,6 +22,8 @@
 - 🛠️ **Tools & Technologies**: Git 🐙, Docker 🐳, TensorFlow 🤖, PyTorch 🔥, STM32 Development 🎛️
 - 🌐 **Web Development**: React ⚛️, Node.js 🟢
 - 🔌 **Hardware Programming**: Verilog HDL 🎮, STM32 Microcontrollers 💡, Embedded Systems 🖥️
+- ⚡ **Power Platform**: Power Apps 📱, Power Automate 🔄, Power BI 📊, Dataverse 🗃️
+- 🏭 **Industrial Automation**: DeltaV DCS 🧪, OSIsoft PI System 📈, Historian Data Analysis 🗂️, Alarm Management 🚨, Batch Control Systems 🧬
 
 ## <h2>🚀🌟 FEATURED PROJECTS</h2>
 
